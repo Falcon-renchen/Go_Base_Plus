@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="edd5dc62-ca84-41dd-99d6-a2c751b8a7b6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$/../BookstoreSystem" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qt7v6gOQ0e6qecN9C1QleNdk7T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/String_Type/main" />
+      <recent name="$PROJECT_DIR$/String_Type" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build Go_Base/Reflect">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="Go_Base_Plus" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/" />
+      <package value="Go_Base" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Go_Base/Object/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go_Base_Plus" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Object/main/main.go" />
+      <package value="Go_Base/Object/main" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Go_Base/Reflect" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go_Base_Plus" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Reflect/main.go" />
+      <package value="Go_Base/Reflect" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build UserService.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go_Base_Plus" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Object/UserService.go" />
+      <package value="Go_Base" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go_Base_Plus" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Reflect/main.go" />
+      <package value="Go_Base" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BenchmarkJoin3 in Go_Base/Test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Go_Base_Plus" />
+      <working_directory value="$PROJECT_DIR$/Test" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="Go_Base/Test" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^BenchmarkJoin3$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="Go_Base_Plus" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="Go_Base" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build Go_Base/Reflect" />
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build Go_Base/Object/main" />
+        <item itemvalue="Go Build.go build UserService.go" />
+        <item itemvalue="Go Test.BenchmarkJoin3 in Go_Base/Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.io</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="846" y="97" key="#go_build_User.go" timestamp="1617891209799">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="846" y="97" key="#go_build_User.go/0.23.1440.877@0.23.1440.877" timestamp="1617891209799" />
+    <state x="677" y="194" key="#go_build_UserService.go" timestamp="1617943924850">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="677" y="194" key="#go_build_UserService.go/0.23.1920.1057@0.23.1920.1057" timestamp="1617943924850" />
+    <state width="614" height="169" key="GridCell.Tab.0.bottom" timestamp="1618023539093">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="559" height="128" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1617895349445" />
+    <state width="614" height="169" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1618023539093" />
+    <state width="614" height="169" key="GridCell.Tab.0.center" timestamp="1618023539091">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="559" height="128" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1617895349444" />
+    <state width="614" height="169" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1618023539091" />
+    <state width="614" height="169" key="GridCell.Tab.0.left" timestamp="1618023539090">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="559" height="128" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1617895349444" />
+    <state width="614" height="169" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1618023539090" />
+    <state width="614" height="169" key="GridCell.Tab.0.right" timestamp="1618023539092">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="559" height="128" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1617895349445" />
+    <state width="614" height="169" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1618023539092" />
+    <state width="1878" height="357" key="GridCell.Tab.1.bottom" timestamp="1617946984708">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1617946984708" />
+    <state width="1878" height="357" key="GridCell.Tab.1.center" timestamp="1617946984707">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.center/0.23.1920.1057@0.23.1920.1057" timestamp="1617946984707" />
+    <state width="1878" height="357" key="GridCell.Tab.1.left" timestamp="1617946984707">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.left/0.23.1920.1057@0.23.1920.1057" timestamp="1617946984707" />
+    <state width="1878" height="357" key="GridCell.Tab.1.right" timestamp="1617946984708">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.right/0.23.1920.1057@0.23.1920.1057" timestamp="1617946984708" />
+    <state x="1354" y="166" key="refactoring.ChangeSignatureDialog" timestamp="1617944349415">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1354" y="166" key="refactoring.ChangeSignatureDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1617944349415" />
+    <state x="1073" y="252" width="670" height="158" key="search.everywhere.popup" timestamp="1618022102895">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="805" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1617888471922" />
+    <state x="1073" y="252" width="670" height="158" key="search.everywhere.popup/0.23.1920.1057@0.23.1920.1057" timestamp="1618022102895" />
+  </component>
+</project>
